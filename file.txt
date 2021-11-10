@@ -1,0 +1,29 @@
+Durante le vacanze ho fatto mille mila foto, 
+ora come faccio a scegliere quella giusta da caricare su Instagram? 
+I paesaggi mozzafiato che ho visitato non ne avrebbero bisogno, 
+però cercherò il filtro giusto per migliorare la luce e rendere più vividi i colori, 
+in modo che le foto rendano giustizia alla bellezza della natura
+
+
+1. Prendo il telefono
+
+2. Sblocco il telefono
+
+3. Apro la galleria
+    -Seleziono le foto delle vacanze
+    ? SE è un paesaggio 
+        -Aggiungilo alla cartella paesaggi
+    : ALTRIMENTI
+        -scarta foto
+ 
+ 4. Apro cartella paesaggi mozzafiato
+    - Per ogni foto applico un filtro
+    ? SE migliora la luce E rende più vividi i colori
+        -Apro Instagram e pubblico la foto
+
+    : ALTRIMENTI 
+        -Provo un altro filtro
+            ? SE nessun filtro applicato migliora la luce e rende più vividi i colori
+                -scarto la foto
+            :ALTRIMENTI 
+                -Apro Instagram e pubblico la foto        
